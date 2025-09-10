@@ -32,15 +32,15 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://imgs.search.brave.com/YhEr17AB2j3RqXAijFGCMUN_CcNAalolviMdBu2xNks/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/ZnJvbnQuZnJlZXBp/ay5jb20vaG9tZS9h/bm9uLXJ2bXAvY3Jl/YXRpdmUtc3VpdGUv/dmlkZW8tY3JlYXRp/b24vaW50cm9zLW91/dHJvcy53ZWJw" alt="image1" />
+                    <img className="w-96" src="https://images.pexels.com/photos/9020063/pexels-photo-9020063.png" alt="image1" />
                 </div>
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://imgs.search.brave.com/_Hf9l4vUroQq5Gks-sFPdFBeNhJzsf_IU5SQ8_ZJjf4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/ZnJvbnQuZnJlZXBp/ay5jb20vaG9tZS9h/bm9uLXJ2bXAvY3Jl/YXRpdmUtc3VpdGUv/cGhvdG9ncmFwaHkv/cmVpbWFnaW5lLndl/YnA" alt="image2" />
+                <img className="sm:w-96 w-48" src="https://images.pexels.com/photos/11911433/pexels-photo-11911433.jpeg" alt="image2" />
             </div>
 
-            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Prajwal bhai chi item</h1>
+            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Chetan</h1>
         </div>
     );
 }
